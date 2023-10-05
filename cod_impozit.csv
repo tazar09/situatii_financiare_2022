@@ -1,0 +1,332 @@
+COD_IMP,SEMNIFICATIE,COD_IMP_FK,DATA_INCEPUT
+100,Profit,100,01.01.2000
+101,Profit BNR,100,01.01.2000
+102,Profit banci,100,01.01.2000
+103,Profit agenti economici,100,01.01.2000
+104,Profit anual,100,01.01.2000
+105,Profit pers. juridice straine,100,01.01.2000
+106,Profit asociere pers. fizice,100,01.01.2000
+107,Profit scutit,100,30.05.2018
+108,Profit art. 40~3,100,04.03.2022
+110,Fond Romania,100,01.01.2000
+111,Profit scutit art.38 alin.1,,
+112,Profit scutit art.38 alin.3,,
+113,"Profit scutit art.38 alin.8,9",,
+114,Cota 20% investitii,,
+120,Microintreprinderi,120,01.01.2000
+121,Microintreprinderi,120,01.01.2000
+122,Microintreprinderi asociere,120,01.01.2000
+127,Microintreprinderi scutit,120,30.05.2018
+128,Impozit venituri offshore,128,17.12.2018
+130,Impozit specific,130,18.01.2017
+140,Impozit pers.jurid nerez,140,01.01.2000
+150,Dividende pers. juridice,150,01.01.2000
+155,"Imp.avocati,notari",,
+160,Reprezentante,,
+161,Impozit energie electrica,161,18.01.2022
+179,Compensatia la carburanti,179,18.07.2022
+200,Accize,200,01.01.2000
+210,Accize alcool 31.12.2006,200,01.01.2000
+211,Accize bere,200,01.01.2000
+212,Accize vinuri,200,01.01.2000
+213,Accize bauturi fermentate,200,01.01.2000
+214,Accize prod intermediare,200,01.01.2000
+215,Accize alcool etilic,200,01.01.2000
+216,Accize vinuri linistite,,
+217,Accize alte bauturi linistite,,
+218,accize,200,04.08.2011
+220,Accize tutun,200,01.01.2000
+221,Accize tigarete,200,01.01.2000
+222,Accize tigari foi,200,01.01.2000
+223,Accize tutun de fumat,200,01.01.2000
+224,Accize,200,24.01.2011
+225,Accize,200,24.01.2011
+226,Accize,200,07.01.2016
+227,Accize,200,07.01.2016
+230,Accize produse energetice,200,01.01.2000
+231,Accize benzina cu plumb,200,01.01.2000
+232,Accize benzina fara plumb,200,01.01.2000
+233,Accize motorina,200,01.01.2000
+234,Accize pacura,200,01.01.2000
+235,Accize gaz petrolier,200,01.01.2000
+236,Accize gaz natural,200,01.01.2000
+237,Accize carbune si cocs,200,01.01.2000
+238,Accize kerosen,200,01.01.2000
+239,Accize uleiuri minerale 31.12.,200,01.01.2000
+240,Accize cafea,200,01.01.2000
+241,Accize,200,19.11.2012
+242,Accize,200,24.01.2011
+243,Accize,200,24.01.2011
+244,Accize,200,25.01.2011
+250,Accize alte produse,200,01.01.2000
+251,accize,200,30.09.2013
+252,accize,200,30.09.2013
+253,accize,200,30.09.2013
+254,accize,200,30.09.2013
+255,accize,200,30.09.2013
+256,accize,200,30.09.2013
+257,accize,200,30.09.2013
+258,accize,200,30.09.2013
+259,accize,200,30.09.2013
+260,Accize autoturisme,200,01.01.2000
+261,Accize pentru autoturisme,200,23.11.2009
+270,Accize energie electrica,200,01.01.2000
+275,Accize pentru alte produse  accizabile (energetice),200,29.07.0020
+280,Accize aer conditionat,200,01.01.2000
+283,Accize banderole,,
+290,Accize rambursat,200,01.01.2000
+300,Tva,300,01.01.2000
+301,Tva lunar,300,01.01.2000
+302,Tva trimestrial,300,01.01.2000
+303,Tva semestrial,300,01.01.2000
+304,Tva anual,300,01.01.2000
+305,Dob.pen.TVA,300,01.01.2000
+307,TVA,300,01.11.2010
+344,TVA,300,19.11.2012
+390,TVA,300,19.11.2012
+410,CAS,410,01.01.2000
+411,Cas angajator,410,01.01.2000
+412,Cas angajat,410,01.01.2000
+413,Cas someri,410,01.01.2000
+414,Cas pensie suplimentara,410,01.01.2000
+415,Cas agricultori,410,01.01.2000
+416,Cas accidente munca,410,01.01.2000
+417,Cas vechi,410,01.01.2000
+418,Cas accidente munca someri,410,01.01.2000
+419,Cas venituri profesionale,410,23.09.2010
+420,Somaj,420,01.01.2000
+421,Somaj angajator,420,01.01.2000
+422,Somaj angajat,420,01.01.2000
+423,Fond garantare,420,01.01.2000
+424,Somaj,420,23.09.2010
+430,Sanatate,430,01.01.2000
+431,Sanatate angajator,430,01.01.2000
+432,Sanatate angajat,430,01.01.2000
+433,Sanatate somaj,430,01.01.2000
+434,Sanatate militari,430,01.01.2000
+435,Sanatate detinuti,430,01.01.2000
+436,Sanatate concediu medical,430,01.01.2000
+437,Sanatate crestere copil,430,01.01.2000
+438,Sanatate concediu medical,430,01.01.2000
+439,Concedii si indemnizatii,430,01.01.2000
+440,"Concedii,indemnizatii somaj",430,01.01.2000
+441,Sanatate pensionari,430,01.01.2000
+442,Concedii incapacitate munca,430,01.01.2000
+443,Concedii accident Fd. Asig.,430,01.01.2000
+444,CASS familie ajutor social,430,01.01.2000
+445,Sanatate,430,05.01.2011
+446,Sanatate,430,05.01.2011
+447,Sanatate,430,05.01.2011
+448,Sanatate,430,05.01.2011
+449,Sanatate,430,05.01.2011
+450,Sanatate,430,22.12.2011
+451,CAS propr. intelectuala,410,10.08.2012
+452,CAS contracte/conventii,410,10.08.2012
+453,CAS activitate expertiza,410,10.08.2012
+454,CAS,410,24.09.2012
+455,CASS contracte,455,15.12.2014
+456,CASS medicamente,456,15.12.2014
+457,Sanatate pensionari >4000,430,04.02.2022
+460,CASS PF,460,15.12.2014
+461,Sanatate propr. Intelectuala,430,10.08.2012
+462,Sanatate propr. Intelectuala,430,10.08.2012
+463,Sanatate activitate expertiza,430,10.08.2012
+464,Sanatate asociere microintrep.,430,10.08.2012
+465,Sanatate asociere fara pj,430,10.08.2012
+466,Sanatate venituri agricole,430,10.08.2012
+467,CAS,410,19.11.2012
+468,SANATATE,430,19.11.2012
+469,Sanatate,430,17.01.2014
+470,Sanatate,430,17.03.2014
+471,Sanatate asociere profit,430,31.10.2017
+472,CASS asociere PJ specific,430,22.05.2018
+473,CAS sportivi,410,22.05.2018
+474,CASS sportivi,430,22.05.2018
+475,CAS aferenta  DUF,410,03.10.2019
+476,CASS aferenta DUF,430,03.10.2019
+480,Contributie asiguratorie,480,20.12.2017
+481,CAS,410,10.01.2018
+482,CAS,410,10.01.2018
+483,CAS constructii,410,18.02.2019
+484,Contribu?ia asig. constructii,480,18.02.2019
+485,CAS contract de asigurare,410,03.10.2019
+486,CAS Agricultori,410,18.07.2022
+487,Contributia asig. agricultori,480,18.07.2022
+500,Taxa jocuri noroc,500,01.01.2000
+501,Taxa jocuri anticipata,500,01.01.2000
+502,Taxa jocuri regularizata,500,01.01.2000
+503,Taxa timbru soc. jocuri,500,01.01.2000
+504,Taxa anuala autorizare jocuri,500,31.03.2010
+510,Taxa jocuri noroc,500,31.01.2011
+511,Taxa licenta loto,500,23.02.2010
+512,Taxa licenta pariuri mutuale,500,23.02.2010
+513,Taxa licenta pariuri fixe,500,23.02.2010
+514,Taxa licenta cazinouri,500,23.02.2010
+515,Taxa licenta slot-machine,500,23.02.2010
+516,Taxa licenta bingo,500,23.02.2010
+517,Taxa licenta bingo TV,500,23.02.2010
+518,Taxa autorizatie loto,500,23.02.2010
+519,Taxa autorizatie mutuale,500,23.02.2010
+520,Taxa autorizatie pariuri fixe,500,23.02.2010
+521,Taxa autorizatie cazinouri,500,23.02.2010
+522,Taxa autorizatie slot-machine,500,23.02.2010
+523,Taxa autorizatie bingo,500,23.02.2010
+524,Taxa autorizatie bingo TV,500,23.02.2010
+535,Taxa jocuri noroc,500,31.03.2011
+536,Taxa licenta jocuri,500,06.01.2014
+537,Taxa autorizatie jocuri,500,06.01.2014
+538,Taxa videoloterie,538,27.07.2015
+539,Taxa de viciu slotmachine,539,27.07.2015
+540,Taxe jocuri noroc la distanta,540,19.08.2015
+541,Taxa 2% jocuri noroc online,500,23.01.2019
+551,Taxa datorata COSR,500,23.06.2022
+552,Taxa datorata CNP,500,23.06.2022
+600,IVG,600,01.01.2000
+601,Activitati independente,600,01.01.2000
+602,Salarii,600,01.01.2000
+603,Cedare folosinta bunuri,600,01.01.2000
+604,Dividende pers. fizice,600,01.01.2000
+605,Dobanzi,600,01.01.2000
+606,Venituri din lichidare,600,01.01.2000
+607,Pensii,600,01.01.2000
+608,Impozit jocuri noroc,600,01.01.2000
+609,Impozit titluri de valoare,600,01.01.2000
+610,Regularizari,600,01.01.2000
+611,Drept proprietate,600,01.01.2000
+612,Impozit venituri pers. nerez,600,01.01.2000
+613,Activitati agricole,600,01.01.2000
+614,Consignatie,600,01.01.2000
+615,Venituri libere,600,01.01.2000
+616,Conventii civile,600,01.01.2000
+617,Vanzare-cumparare valuta,600,01.01.2000
+618,Venituri comerciale,600,01.01.2000
+619,IVG,600,22.12.2011
+620,Venituri din imobiliare,600,01.01.2000
+621,IVG,600,18.12.2012
+622,Venituri asociere PJ profit,600,31.10.2017
+623,Venituri asociere PJ micro,600,31.10.2017
+624,Venituri asociere PJ specific,600,20.12.2017
+625,Venit sportivi,600,22.05.2018
+626,Plati anticipate activ. indep.,600,19.01.2021
+631,Venituri dividende NRZ,600,30.01.2014
+632,Venituri dobanzi NRZ,600,30.01.2014
+633,Venituri redevente NRZ,600,30.01.2014
+634,Venituri comisioane NRZ,600,30.01.2014
+635,Venituri sportive NRZ,600,30.01.2014
+636,Venituri servicii NRZ,600,30.01.2014
+637,Venituri premii NRZ,600,30.01.2014
+638,Venituri jocuri NRZ,600,30.01.2014
+639,Venituri lichidare pj NRZ,600,30.01.2014
+640,Venituri remuneratii NRZ,600,30.01.2014
+641,ivg,600,09.07.2014
+650,Sponsorizari nonprofit,650,22.05.2019
+675,Impozit pe venit aferent DUF,600,30.10.2019
+690,Impozit alte venituri,600,01.01.2000
+699,Salarii (restante),,
+701,Impozit pe constructii,701,06.01.2014
+710,Titei si gaze,710,01.01.2000
+711,Impozit dereglementari,711,07.02.2013
+712,Venituri exploatare,712,07.02.2013
+713,Impozit pe monopol,713,07.02.2013
+720,Taxa daunatoare sanatatii,720,01.01.2000
+721,Penalitati,721,19.11.2012
+725,Taxe si tarife autorizatii ,,
+730,Fond aviatie civila,730,01.01.2000
+735,Salarii colaboratori,735,01.01.2000
+740,Taxa autovehicule,740,01.01.2000
+750,Taxa prospectiune,750,01.01.2000
+751,Venituri destinatie speciala,751,19.11.2012
+752,Recuperare chelt.judiciare,,
+753,Chelt. judiciare nerezidenti,753,16.08.2017
+754,Compensatii drept de trecere,754,17.12.2018
+755,Redevente miniere,,
+756,Redevente petroliere,756,01.01.2000
+757,Venituri inchirieri Instit.pub,757,01.01.2000
+758,Redevente,758,18.12.2012
+759,Despagubiri drept de trecere,759,17.12.2018
+760,Taxa dezvoltare,760,01.01.2000
+761,Taxe judiciare,761,19.11.2012
+762,Venituri,762,19.11.2012
+763,Taxa pe activele financiare,763,23.01.2019
+765,Venituri din aplicarea prescriptiei extinctive,765,19.11.2012
+766,Redeventa ape minerale,755,04.02.2022
+767,Redeventa terenuri agricole,758,04.02.2022
+770,Taxa invatamant superior,770,01.01.2000
+771,Venituri din taxe pentru prestatii vamale,771,19.11.2012
+772,Taxe consulare,772,19.11.2012
+773,Venituri din expertiza,773,19.11.2012
+774,Venituri prestari servicii,774,19.11.2012
+776,Taxa de poluare,776,19.11.2012
+777,Taxe mediu,777,01.01.2000
+778,Varsaminte disp.instit.publ.,778,19.11.2012
+779,Taxa auto prima inmatriculare,779,19.11.2012
+780,Varsaminte profit net,780,01.01.2000
+781,Dividende,781,18.12.2012
+790,Taxe autorizare accize,790,01.01.2000
+791,Timbru de mediu,791,15.03.2013
+810,Varsaminte pentru pers. handip,810,01.01.2000
+811,Sume pers. handicap,811,01.01.2000
+814,Cote defalcate,814,19.11.2012
+820,Contributie invatamant,820,01.01.2000
+825,Contribu?ie pensie militari,825,09.02.2016
+830,Contributie turism,830,01.01.2000
+840,"Ramb.imprumut CONEL,ROMGAZ",840,19.11.2012
+850,Taxe vamale,850,19.11.2012
+910,Venituri amenzi,910,01.01.2000
+911,Venituri amenzi CAS,911,31.10.2012
+912,Venituri amenzi Antifrauda,912,06.01.2014
+913,Venituri amenzi straini,913,14.07.2015
+915,Incasari din cota retinuta,915,27.05.2009
+916,Restit.fd.ani precedenti,916,19.11.2012
+920,Penalitati nedepunere,920,01.01.2000
+921,Penalitati,921,05.03.2012
+922,Venituri din despagubiri,922,19.11.2012
+923,Incasari,923,06.01.2010
+924,Amenzi judiciare,924,19.11.2012
+925,Maj. venit nevarsat termen,925,01.01.2000
+926,"Alte amenzi, penalitati si confiscari",926,19.11.2012
+927,Penalitati de nedeclarare,927,23.12.2015
+930,Profit ilicit,930,01.01.2000
+931,Alte incasari din impozite directe,931,19.11.2012
+932,Incasari confiscari,923,05.04.2016
+933,Incasari confiscari DGAF,923,05.04.2016
+940,Contributie finantare sanatate,940,19.10.2011
+941,Contributie tutun intern,,
+942,Contributie tutun import,,
+943,Contributie alcool intern,,
+944,Contributie alcool import,,
+945,"Contrib, publ. tutun, alcool",945,01.01.2000
+946,Contrib. FNUASS,946,26.10.2011
+947,Disp.taxe emisii poluante,947,19.11.2012
+950,Valorif.bunuri instit.publice,950,19.11.2012
+951,Sume drepturi necuvenite,951,19.11.2012
+952,"Ven.chelt.judecata,despag.",952,19.11.2012
+953,Alte ven. valorif. bunur,953,19.11.2012
+954,Recup. debit necuvenit BS,954,29.11.2018
+955,Fond de risc,,
+956,Ven. ajut. de stat recup.,,
+957,Cheltuieli executare,957,01.01.2000
+958,Recup. debit necuvenit CAS,958,29.11.2018
+959,Recup. debit necuvenit AMBP,959,29.11.2018
+960,Varsaminte din reducerea drepturilor salariale,960,02.08.2010
+961,ITM 31.12.2010,961,23.06.2015
+970,Alte venituri,970,27.09.2011
+971,Prima Casa,971,19.11.2012
+972,Creante raspundere solidara,972,19.11.2012
+981,Rest.fd. finan. bug. BS,981,01.01.2000
+982,Rest.fd. finan. bug. BCAS,982,01.01.2000
+983,Rest.fd. finan. bug. BSAN,983,01.01.2000
+984,Rest.fd. finan. bug. BSOM,984,01.01.2000
+985,Despagubiri (bug. stat),985,13.02.2014
+986,Despagubiri (asig. sociale),986,13.02.2014
+987,Despagubiri (sanatate),987,13.02.2014
+988,Despagubiri (somaj),988,13.02.2014
+990,Cont unic DUF,990,29.11.2018
+991,Cont unic nerezidenti,991,19.11.2012
+992,Cont unic BS,992,01.01.2000
+993,Cont unic BASS,993,01.01.2000
+994,Cont unic BAS,994,01.01.2000
+995,Disponibil din sume ?ncasate,995,05.03.2012
+997,Cont Dispon. prejudiciu,997,19.11.2012
+998,Cont UNIC,998,06.05.2020
+999,"Alte impozite,taxe,contributii",999,23.12.2015
